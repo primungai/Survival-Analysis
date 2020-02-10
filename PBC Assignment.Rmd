@@ -349,7 +349,8 @@ stratfit <- coxph(Surv(time_in_years) ~ sex + ascites + hepato + ageCat + spider
 summary (stratfit)
 ```
 
-
+```{r}
+```
 
 
 
